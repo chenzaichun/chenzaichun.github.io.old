@@ -1,0 +1,6 @@
+#+TITLE: {{ replace .Name "-" " " | title }}
+#+DATE: {{ .Date }}
+#+TAGS[]: emacs org hugo
+#+KEYWORDS[]:
+#+CATEGORIES[]:  emacs org
+#+lastmod: [2021-03-04 Thu 12:37]

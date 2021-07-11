@@ -1,0 +1,73 @@
++++
+categories = ["emacs", "org2blog"]
+comments = true
+published = true
+date = "2011-10-27T09:10:11+08:00"
+status = "publish"
+tags = ["emacs", "org2blog"]
+title = "zenburn-code css"
+type = "post"
+description = ""
++++
+
+
+```css
+/* zenburnesque code blocks in for html-exported org mode */
+
+pre.src {
+   background: #3f3f3f; color: #dcdccc;
+}
+
+.org-preprocessor {
+   color: #8cd0d3;
+}
+
+.org-preprocessor {
+   color: #8cd0d3;
+}
+
+.org-variable-name {
+   color: #f0dfaf;
+}
+
+.org-string {
+   color: #cc9393;
+}
+
+.org-type {
+   color: #dfdfbf;
+   font-weight: bold;
+}
+
+.org-function-name {
+   color: #8cd0d3;
+   font-weight: bold;
+}
+
+.org-keyword {
+   color: #f0dfaf;
+   font-weight: bold;
+}
+
+.org-comment {
+   color: #7f9f7f;
+}
+
+.org-doc {
+   color: #afd8af;
+}
+
+.org-comment-delimiter {
+   color: #708070;
+}
+
+.org-constant {
+   color: #dca3ac;
+   font-weight:bold;
+}
+
+.org-builtin {
+   color: #7f9f7f;
+}
+```
+<!--more-->
